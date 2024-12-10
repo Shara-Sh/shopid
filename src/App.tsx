@@ -2,6 +2,7 @@ import BestSells from "./components/BestSells";
 import Category from "./components/Category";
 import Feature from "./components/Feature";
 import Header from "./components/Header";
+import News from "./components/News";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Feature />
       <Category />
       <BestSells />
+      <News />
     </div>
   );
 }

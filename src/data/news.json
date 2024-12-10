@@ -1,0 +1,14 @@
+[
+  {
+    "image": "./news/company.jpg",
+    "description": "lorem"
+  },
+  {
+    "image": "./news/office.jpg",
+    "description": "lorem"
+  },
+  {
+    "image": "./news/personal.jpg",
+    "description": "lorem"
+  }
+]
