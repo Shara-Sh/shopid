@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Iphone",
+    "price": 1000,
+    "image": "./iPhone-16.png"
+  },
+  {
+    "name": "Airpods",
+    "price": 150,
+    "image": "./airpods.jfif"
+  },
+  {
+    "name": "Ipad",
+    "price": 400,
+    "image": "./ipad.jpg"
+  },
+  {
+    "name": "Apple Pencile",
+    "price": 100,
+    "image": "./pencile.jpg"
+  },
+  {
+    "name": "Mac",
+    "price": 1300,
+    "image": "./mac.jpg"
+  }
+]

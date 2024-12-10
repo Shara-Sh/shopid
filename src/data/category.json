@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Electronics",
+    "image": "./category/Electronics.jpg"
+  },
+  {
+    "name": "Clothing",
+    "image": "./category/Clothing.jpg"
+  },
+  {
+    "name": "Home and Kitchen",
+    "image": "./category/Home and Kitchen.jpg"
+  },
+  {
+    "name": "Beauty",
+    "image": "./category/Beauty.jpg"
+  },
+  {
+    "name": "Outdoors",
+    "image": "./category/Outdoors.jpg"
+  },
+  {
+    "name": "Sports",
+    "image": "./category/Sports.jpg"
+  },
+  {
+    "name": "Toys",
+    "image": "./category/Toys.jpg"
+  },
+  {
+    "name": "Health",
+    "image": "./category/Health.jpg"
+  },
+  {
+    "name": "Automotive",
+    "image": "./category/Automotive.jpg"
+  },
+  {
+    "name": "Geroceries",
+    "image": "./category/Geroceries.jpg"
+  }
+]

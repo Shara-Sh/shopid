@@ -1,0 +1,62 @@
+[
+  {
+    "name": "iPhone 16",
+    "price": "1000",
+    "image": "./bestSells/iPhone-16.png"
+  },
+  {
+    "name": "Apple Watch",
+    "price": "300",
+    "image": "./bestSells/Apple Watch.jpg"
+  },
+  {
+    "name": "Ring Light",
+    "price": "40",
+    "image": "./bestSells/Ring Light.jpg"
+  },
+  {
+    "name": "Keyboard",
+    "price": "",
+    "image": "./bestSells/Keyboard.jpg"
+  },
+  {
+    "name": "Phone Case",
+    "price": "5",
+    "image": "./bestSells/Phone Case.jpg"
+  },
+  {
+    "name": "Speaker",
+    "price": "140",
+    "image": "./bestSells/Speaker.jpg"
+  },
+  {
+    "name": "Toys",
+    "price": "30",
+    "image": "./bestSells/Toys.jpg"
+  },
+  {
+    "name": "Board Game",
+    "price": "40",
+    "image": "./bestSells/Board Game.jpg"
+  },
+  {
+    "name": "HeadPhone",
+    "price": "120",
+    "image": "./bestSells/HeadPhone.jpg"
+  },
+  {
+    "name": "Mouse",
+    "price": "60",
+    "image": "./bestSells/Mouse.jpg"
+  },
+  {
+    "name": "Water Bottle",
+    "price": "25",
+    "image": "./bestSells/Water Bottle.jpg"
+  },
+  {
+    "name": "TV",
+    "price": "300",
+    "image": "./bestSells/TV.jpg"
+  }
+]
